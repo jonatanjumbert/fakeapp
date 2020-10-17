@@ -23,5 +23,6 @@ Nota importante: No soy un experto en Unity, usa este código a modo de referenc
 [Creative Commons - Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 Resumiendo: Puedes copiar y redistribuir el material del repositorio con cualquier propósito incluso comercial. El único requisito es que me des crédito de la siguiente manera:
 
-- Con la colaboración de Jonatan Jumbert. Puedes linkar a mi twitter [@jonatanjumbert](https://jonatanjumbert.com) o a este repositorio de Github.
-- No tienes derecho a usar los recursos gráficos que se incluyen en el proyecto ya que están bajo licencia premium en Freepik (a menos que dispongas de ella).
+- Con la colaboración de [Jonatan Jumbert](https://twitter.com/jonatanjumbert). Puedes linkar a mi twitter [@jonatanjumbert](https://twitter.com/jonatanjumbert) o a este [repositorio de Github](https://github.com/jonatanjumbert/fakeapp).
+
+**IMPORTANTE**: No tienes derecho a usar los recursos gráficos que se incluyen en el proyecto ya que están bajo licencia premium en Freepik (a menos que dispongas de ella).
